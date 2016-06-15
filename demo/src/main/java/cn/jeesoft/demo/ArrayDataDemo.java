@@ -31,7 +31,7 @@ public class ArrayDataDemo {
                 }
                 city.put("一二三四五六七八九" + j, data);
             }
-            DATAs.put("一二三四五六七八九" + i, city);
+            DATAs.put("一二三三四五六七" + i, city);
         }
     }
 

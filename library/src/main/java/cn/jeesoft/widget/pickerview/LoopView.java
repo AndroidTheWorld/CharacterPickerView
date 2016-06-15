@@ -122,7 +122,7 @@ public class LoopView extends View {
         t = (int) ((float) h * l * (float) (r - 1));
         s = (int) ((double) (t * 2) / Math.PI);
         u = (int) ((double) t / Math.PI);
-        v = g + textSize;
+        v = 1000;
         n = (int) (((float) s - l * (float) h) / 2.0F);
         o = (int) (((float) s + l * (float) h) / 2.0F);
         if (positon == -1) {

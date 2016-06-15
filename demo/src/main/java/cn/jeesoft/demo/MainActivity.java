@@ -20,9 +20,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         // 用View的方式实现
-        showView();
+//        showView();
         // 用PopupWindow的方式实现
-        //showWindow();
+        showWindow();
 
     }
 
